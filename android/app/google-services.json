@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104288452011",
+    "project_id": "tutorial-flutter-98ac7",
+    "storage_bucket": "tutorial-flutter-98ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104288452011:android:eb730bc25a5fd2322026ee",
+        "android_client_info": {
+          "package_name": "com.daft.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104288452011-835c21oaktnfmmcuod4mk67ruanq9uua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw8hYvQTLBUU76LkS5lWtBT48XkZNDduU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104288452011-835c21oaktnfmmcuod4mk67ruanq9uua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
