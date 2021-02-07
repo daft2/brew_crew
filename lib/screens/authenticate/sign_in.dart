@@ -21,14 +21,14 @@ class _SignInState extends State<SignIn> {
       body: Container(
         padding: EdgeInsets.symmetric(vertical: 20, horizontal: 50),
         child: RaisedButton(
-          child: Text('Sign In Anonymous'),
+          child: Text('Anonymous Sign In'),
           onPressed: () async {
             dynamic data = await _auth.signInAnon();
             if (data == null) {
               print('Error Sign In');
             } else {
               print('Sucessfully Signed In');
-              print(data);
+              print(data.uid);
             }
           },
         ),
